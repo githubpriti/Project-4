@@ -1,6 +1,6 @@
 # Project 4:
 
-[Live link](http://127.0.0.1:5500/index.html)
+[Live link](https://elegant-tarsier-702f95.netlify.app)
 
 ## Name:Vaishnavi Jaju
 
