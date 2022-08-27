@@ -9,7 +9,7 @@
 **What I learned in this project** :
 
 ***
- -Learned about nth child selectors
+ -Learned about nth child selectors.
  
 ***
 
